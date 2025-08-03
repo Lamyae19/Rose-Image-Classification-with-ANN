@@ -26,3 +26,5 @@ To develop a lightweight, fast, and accurate classifier that can be used in real
 ✅ Output:
 * Trained ANN model
 * A prediction function that accepts any image and returns: "It's a rose" or "Not a rose"
+
+<img width="1608" height="487" alt="Image" src="https://github.com/user-attachments/assets/52c5a247-d26d-4015-9ccf-0e35896a7dc5" />
